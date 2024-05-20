@@ -1,0 +1,6 @@
+@import "./base.css";
+
+strong,
+h1 {
+    font-weight: bold;
+}
